@@ -1,1 +1,2 @@
-Códigos para a leitura dos dados do conversor AD.
+Códigos para a leitura dos dados do conversor AD. O código bateria.py diz respeito às configurações para a leitura do sensor de nível da bateria, enquanto o código Joystick.py 
+diz respeito às configurações para leitura dos dados vindos dos joysticks.
