@@ -1,0 +1,2 @@
+Pasta com o código exemplo de comunicação com o LiDAR. Por se tratar de um sensor, existe apenas o código exemplo para a captura dos sinais da entrada USB para a qual ele for 
+designado.
